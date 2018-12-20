@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 编辑测试
+=======
+编辑测试
+>>>>>>> parent of be42b34... Update Log.txt
