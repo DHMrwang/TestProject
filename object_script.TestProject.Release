@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\dialogabout.o
+./release\dialogcomconfig.o
+./release\contactus.o
+./release\combase.o
+./release\qrc_resource.o
+./release\moc_mainwindow.o
+./release\moc_dialogabout.o
+./release\moc_dialogcomconfig.o
+./release\moc_contactus.o
+);
