@@ -8,7 +8,7 @@ MainWindow::MainWindow(QWidget *parent) :
     ui->setupUi(this);
     //窗口命名
     setWindowTitle(tr("串口调试助手"));
-
+    
     //窗口资源建立
     P_About = NULL;
 
